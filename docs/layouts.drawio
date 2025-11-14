@@ -1,188 +1,260 @@
 <mxfile host="65bd71144e">
     <diagram id="eBzeVRMwvh_UB8RqlufA" name="ページ1">
-        <mxGraphModel dx="1010" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1414" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="76" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="76" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="1150" y="90" width="840" height="710" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="76">
+                <mxCell id="60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="76" vertex="1">
                     <mxGeometry width="840" height="710" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="76">
+                <mxCell id="65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="76" vertex="1">
                     <mxGeometry width="840" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+                <mxCell id="69" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" parent="76" vertex="1">
+                    <mxGeometry x="710" y="20" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 17px; background-color: transparent;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=#FFFFFF;fillColor=#333333;labelBackgroundColor=none;strokeColor=none;fontSize=20;" parent="76" vertex="1">
+                    <mxGeometry x="40" y="270" width="750" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 17px; background-color: transparent;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=#FFFFFF;fillColor=#333333;labelBackgroundColor=none;strokeColor=none;fontSize=20;" parent="76" vertex="1">
+                    <mxGeometry x="40" y="130" width="750" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 17px; background-color: transparent;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=#FFFFFF;fillColor=#333333;labelBackgroundColor=none;strokeColor=none;fontSize=20;" parent="76" vertex="1">
+                    <mxGeometry x="40" y="410" width="750" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 17px; background-color: transparent;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;font style=&quot;background-color: transparent; scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;サ&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 255, 255); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;ブタイトル&lt;/span&gt;&lt;/div&gt;" style="rounded=0;html=1;align=left;verticalAlign=top;fontColor=#FFFFFF;fillColor=#333333;labelBackgroundColor=none;strokeColor=none;fontSize=20;" parent="76" vertex="1">
+                    <mxGeometry x="40" y="550" width="750" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="20" y="90" width="840" height="620" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="アカウント登録" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+                <mxCell id="3" value="アカウント登録" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
                     <mxGeometry x="20" y="50" width="200" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="5" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="250" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="アカウント登録" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="8" value="アカウント登録" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="335" y="120" width="210" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="9" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="210" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="10" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="310" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="11" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="350" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="パスワード（再入力）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="12" value="パスワード（再入力）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="410" width="220" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="13" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="197.5" y="450" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="登録" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="14" value="登録" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="352.5" y="610" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="メールを送信しました。&lt;br&gt;メールより認証を行ってください。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFF99;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="15" value="メールを送信しました。&lt;br&gt;メールより認証を行ってください。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFF99;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="267.5" y="520" width="310" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+                <mxCell id="16" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" parent="1" vertex="1">
                     <mxGeometry x="20" y="810" width="140" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="20" y="860" width="840" height="600" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="18" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="375" y="920" width="130" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="19" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="1010" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="20" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="1050" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="21" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="1110" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="22" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="1150" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="ログイン" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="23" value="ログイン" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="352.5" y="1340" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="&lt;font style=&quot;color: rgb(51, 255, 255);&quot;&gt;登録はこちら&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 255, 255);&quot;&gt;パスワードを忘れた方はこちら&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="24" value="&lt;font style=&quot;color: rgb(51, 255, 255);&quot;&gt;登録はこちら&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 255, 255);&quot;&gt;パスワードを忘れた方はこちら&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="1200" width="210" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="メールでの認証が完了していません。&lt;br&gt;&lt;font style=&quot;color: rgb(255, 255, 153); font-size: 14px;&quot;&gt;メールを再送する&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFF99;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="26" value="メールでの認証が完了していません。&lt;br&gt;&lt;font style=&quot;color: rgb(255, 255, 153); font-size: 14px;&quot;&gt;メールを再送する&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFF99;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="257.5" y="1260" width="330" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+                <mxCell id="27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="20" y="1640" width="840" height="600" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="パスワードを忘れた方" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+                <mxCell id="28" value="パスワードを忘れた方" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" parent="1" vertex="1">
                     <mxGeometry x="20" y="1590" width="300" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="29" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="2360" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="31" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="2460" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="33" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="375" y="2270" width="130" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="34" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="3130" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="36" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="3230" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="38" value="ログイン" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="375" y="3040" width="130" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="パスワードをお忘れの方" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="39" value="パスワードをお忘れの方" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="280" y="1690" width="320" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="40" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="1860" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="43" value="メールアドレスを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="1900" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="送信" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="44" value="送信" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="352.5" y="2060" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="パスワード変更（送られたメールから遷移）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+                <mxCell id="45" value="パスワード変更（送られたメールから遷移）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" parent="1" vertex="1">
                     <mxGeometry x="20" y="2400" width="580" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+                <mxCell id="46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="20" y="2450" width="840" height="600" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="パスワード変更" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="47" value="パスワード変更" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="340" y="2500" width="210" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="48" value="メールアドレス" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="2580" width="160" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;example@example.com&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;example@example.com&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="2620" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="更新" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="50" value="更新" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="352.5" y="2920" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="55" value="パスワード" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="2680" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="56" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="2720" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="パスワード（再入力）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="57" value="パスワード（再入力）" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="220" y="2790" width="220" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                <mxCell id="58" value="パスワードを入力してください。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
                     <mxGeometry x="220" y="2830" width="450" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="トップページ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+                <mxCell id="59" value="トップページ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
                     <mxGeometry x="1150" y="50" width="170" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトル 2,3&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;0文字くらい？で...にする&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;サブタイトル　50文字くらい？で...にする&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-                    <mxGeometry x="1190" y="200" width="750" height="110" as="geometry"/>
-                </mxCell>
-                <mxCell id="66" value="メモアプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
+                <mxCell id="66" value="メモアプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
                     <mxGeometry x="1190" y="110" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;メモアプリ&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" vertex="1" parent="1">
-                    <mxGeometry x="1620" y="110" width="110" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="68" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;メモアプリ&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" vertex="1" parent="1">
-                    <mxGeometry x="1730" y="110" width="110" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="69" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;メモアプリ&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" vertex="1" parent="1">
-                    <mxGeometry x="1830" y="110" width="110" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="73" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトル 2,3&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;0文字くらい？で...にする&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;サブタイトル　50文字くらい？で...にする&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-                    <mxGeometry x="1190" y="340" width="750" height="110" as="geometry"/>
-                </mxCell>
-                <mxCell id="74" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトル 2,3&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;0文字くらい？で...にする&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;サブタイトル　50文字くらい？で...にする&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-                    <mxGeometry x="1190" y="480" width="750" height="110" as="geometry"/>
-                </mxCell>
-                <mxCell id="75" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトルタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;タイトル 2,3&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); font-size: 17px;&quot;&gt;0文字くらい？で...にする&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;サブタイトル　50文字くらい？で...にする&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-                    <mxGeometry x="1190" y="620" width="750" height="110" as="geometry"/>
-                </mxCell>
-                <mxCell id="77" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="77" value="" style="group;fillColor=default;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="1150" y="910" width="840" height="710" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="77">
+                <mxCell id="78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="77" vertex="1">
                     <mxGeometry width="840" height="710" as="geometry"/>
                 </mxCell>
-                <mxCell id="79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="77">
+                <mxCell id="79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="77" vertex="1">
                     <mxGeometry width="840" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="80" value="メモ登録モーダル" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+                <mxCell id="83" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" parent="77" vertex="1">
+                    <mxGeometry x="710" y="20" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="メモアプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="77" vertex="1">
+                    <mxGeometry x="40" y="20" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#000000;gradientColor=none;opacity=70;" parent="77" vertex="1">
+                    <mxGeometry width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="89" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#333333;fontColor=#FFFFFF;fontSize=18;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="180" width="750" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontColor=#FFFFFF;fillColor=#333333;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="100" width="750" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#333333;fontColor=#FFFFFF;fontSize=18;" parent="77" vertex="1">
+                    <mxGeometry x="40" y="259" width="750" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="登録" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;" parent="77" vertex="1">
+                    <mxGeometry x="350" y="610" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="メモ登録モーダル" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
                     <mxGeometry x="1150" y="860" width="220" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="81" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;＋&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                <mxCell id="81" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;＋&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="1880" y="690" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="113" value="メモ詳細" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" parent="1" vertex="1">
+                    <mxGeometry x="2140" y="40" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="134" value="" style="group;fillColor=default;" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="2150" y="90" width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="134" vertex="1">
+                    <mxGeometry width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" parent="134" vertex="1">
+                    <mxGeometry width="840" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="137" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" parent="134" vertex="1">
+                    <mxGeometry x="710" y="20" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="138" value="メモアプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="134" vertex="1">
+                    <mxGeometry x="40" y="20" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fillColor=#333333;fontColor=#FFFFFF;fontSize=18;" parent="134" vertex="1">
+                    <mxGeometry x="40" y="230" width="750" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="141" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;fontColor=#FFFFFF;fillColor=#333333;" parent="134" vertex="1">
+                    <mxGeometry x="40" y="150" width="750" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;サブタイトル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#333333;fontColor=#FFFFFF;fontSize=18;" parent="134" vertex="1">
+                    <mxGeometry x="40" y="309" width="750" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="&lt;font style=&quot;color: rgb(153, 255, 255);&quot;&gt;編集　　&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 102, 102);&quot;&gt;削除&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="134" vertex="1">
+                    <mxGeometry x="650" y="95" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="" style="group;fillColor=#FF6666;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="2150" y="910" width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="146" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="145">
+                    <mxGeometry width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="145">
+                    <mxGeometry width="840" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" value="&lt;font style=&quot;font-size: 17px; color: rgb(255, 255, 255);&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=default;fontStyle=1;" vertex="1" parent="145">
+                    <mxGeometry x="710" y="20" width="110" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="149" value="メモアプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="145">
+                    <mxGeometry x="40" y="20" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="150" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#000000;gradientColor=none;opacity=70;" vertex="1" parent="145">
+                    <mxGeometry width="840" height="710" as="geometry"/>
+                </mxCell>
+                <mxCell id="152" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;　タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;タイトル&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;div style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251); color: rgb(255, 255, 255);&quot;&gt;&lt;br style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgb(226, 226, 226) rgb(251, 251, 251);&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;　メモを削除してもよろしいですか？&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontColor=#FFFFFF;fillColor=#333333;" vertex="1" parent="145">
+                    <mxGeometry x="120" y="200" width="610" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="154" value="&lt;font style=&quot;&quot;&gt;削除&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#FF9999;fontColor=#000000;" vertex="1" parent="145">
+                    <mxGeometry x="510" y="380" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="155" value="キャンセル" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=20;fillColor=#99FF99;" vertex="1" parent="145">
+                    <mxGeometry x="200" y="380" width="140" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
