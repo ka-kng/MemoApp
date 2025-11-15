@@ -57,14 +57,15 @@ services:
         networks:
             - sail
     phpmyadmin:
-        image: phpmyadmin/phpmyadmin
+        image: phpmyadmin/phpmyadmin:latest
         ports:
             - 8080:80
         environment:
-            PMA_HOST: mysql  
-            PMA_USER: root
-            PMA_PASSWORD: password
-
+            MYSQL_USERNAME: '${DB_USERNAME}'
+            MYSQL_ROOT_PASSWORD: '${DB_PASSWORD}'
+            PMA_HOST: mysql
+        networks:
+            - sail
 networks:
     sail:
         driver: bridge
