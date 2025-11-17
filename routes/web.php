@@ -2,4 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::view('/', 'memo.home')->middleware('auth');
+Route::get('/home', function () {
+    return view('memo.home');
+})->middleware(['auth', 'verified']);

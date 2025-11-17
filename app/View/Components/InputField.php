@@ -14,7 +14,7 @@ class InputField extends Component
     public $placeholder;
     public $name;
 
-    public function __construct($label, $type = 'text', $id = 'null', $placeholder = '', $name)
+    public function __construct($label, $type, $id, $placeholder, $name)
     {
         $this->label = $label;
         $this->type = $type;

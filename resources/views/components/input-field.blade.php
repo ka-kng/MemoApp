@@ -10,6 +10,6 @@
     >
 
     @error($name)
-        <p class="text-red-500 text-sm mt-1">{{ $message }}</p> {{-- 追加：エラー表示 --}}
+        <p class="text-red-400 text-xl">{{ $message }}</p> {{-- 追加：エラー表示 --}}
     @enderror
 </div>

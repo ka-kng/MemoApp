@@ -13,7 +13,7 @@
 
             <div class="flex flex-col">
               <a href="/register" class="text-blue-200 text-lg">登録はこちら</a>
-              <a href="" class="text-blue-200 text-lg">パスワードを忘れた方はこちら</a>
+              <a href="/forgot-password" class="text-blue-200 text-lg">パスワードを忘れた方はこちら</a>
             </div>
 
             <x-button type="submit" label="ログイン" />

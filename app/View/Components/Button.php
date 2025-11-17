@@ -6,7 +6,7 @@ use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class Buttton extends Component
+class Button extends Component
 {
     public $type;
     public $label;
@@ -15,7 +15,7 @@ class Buttton extends Component
     public function __construct($type, $label)
     {
         $this->type = $type;
-        $this->type = $label;
+        $this->label = $label;
     }
 
     public function render(): View|Closure|string
