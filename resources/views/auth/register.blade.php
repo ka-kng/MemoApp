@@ -14,6 +14,12 @@
             <x-input-field name="password_confirmation" id="password_confirmation" label="パスワード（再入力）" type="password" placeholder="パスワードを入力してください" />
             <a href="/login" class="text-blue-200 text-lg">ログインはこちら</a>
 
+            @if (session('status'))
+    <div class="mt-4 text-green-600">
+        {{ session('status') }}
+    </div>
+@endif
+
             <x-button type="submit" label="登録" />
 
         </form>

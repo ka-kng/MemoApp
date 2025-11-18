@@ -4,8 +4,8 @@
 
 @section('h1', 'ログイン')
 @section('content')
-    <div class="px-5 grid place-items-cente w-full py-10">
-        <form action="" method="POST" class="space-y-5">
+    <div class="px-5 grid w-full py-10">
+        <form action="{{ route('login.store') }}" method="POST" class="space-y-5">
             @csrf
 
             <x-input-field name="email" id="email" label="メールアドレス" type="email" placeholder="メールアドレスを入力してください" />
