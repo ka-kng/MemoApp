@@ -12,7 +12,7 @@
 </head>
 
 <body class="bg-black text-white">
-    <header class="bg-gray-800">
+    <header class="bg-stone-700">
 
         <div class="flex justify-between p-7 max-w-screen-2xl m-auto">
             <h2 class="">
@@ -20,6 +20,9 @@
             </h2>
             <nav>
                 <ul class="flex gap-10 text-xl">
+                    <li>
+                        <a href="{{ route('memo.create') }}">メモを登録</a>
+                    </li>
                     <li>
                         <form action="{{ route('logout') }}" method="POST">
                             @csrf

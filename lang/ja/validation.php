@@ -161,6 +161,8 @@ return [
         'name'  => '名前',
         'email'  => 'メールアドレス',
         'password'  => 'パスワード',
+        'title'  => 'タイトル',
+        'subtitle'  => 'サブタイトル',
     ],
 
 ];
