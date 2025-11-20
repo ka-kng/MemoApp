@@ -9,26 +9,26 @@
         <form action="{{ route('memo.store') }}" method="POST">
             @csrf
 
-            <div class="space-y-4">
+            <div class="space-y-7">
                 <div>
                     <input name="title" type="text"
-                        class="p-2 bg-stone-700 w-full h-15 rounded placeholder-white text-2xl" placeholder="タイトル">
+                        class="p-2 bg-stone-700 w-full h-16 rounded placeholder-white text-2xl" placeholder="タイトル" value="{{ old('title', $memo->title ?? '') }}">
                     @error('title')
-                        <p class="text-red-400 text-xl">{{ $message }}</p> {{-- 追加：エラー表示 --}}
+                        <p class="text-red-400 text-xl">{{ $message }}</p>
                     @enderror
                 </div>
 
                 <div>
                     <input name="subtitle" type="text"
-                        class="p-2 bg-stone-700 w-full h-15 rounded placeholder-white text-xl" placeholder="サブタイトル">
+                        class="p-2 bg-stone-700 w-full h-16 rounded placeholder-white text-xl" placeholder="サブタイトル" value="{{ old('subtitle',  $memo->subtitle) }}">
                     @error('subtitle')
-                        <p class="text-red-400 text-xl">{{ $message }}</p> {{-- 追加：エラー表示 --}}
+                        <p class="text-red-400 text-xl">{{ $message }}</p>
                     @enderror
                 </div>
 
                 <div>
-                    <textarea name="content" rows="10" class="p-2 bg-stone-700 w-full rounded placeholder-white"
-                        placeholder="メモを入力してください"></textarea>
+                    <textarea name="content" rows="12" class="p-2 bg-stone-700 w-full rounded placeholder-white"
+                        placeholder="メモを入力してください">{{ old('content') }}</textarea>
                 </div>
             </div>
 

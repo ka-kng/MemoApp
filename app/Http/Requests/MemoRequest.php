@@ -22,8 +22,8 @@ class MemoRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'title' => 'required|string',
-            'subtitle' => 'required|string',
+            'title' => 'required|string|max:50',
+            'subtitle' => 'required|string|max:100',
             'content' => 'nullable|string'
         ];
     }
