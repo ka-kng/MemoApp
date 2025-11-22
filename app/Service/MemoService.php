@@ -13,4 +13,9 @@ class MemoService
 
     return Memo::create($data);
   }
+
+  public function memoupdate(array $data, Memo $memo)
+  {
+    return $memo->update($data);
+  }
 }

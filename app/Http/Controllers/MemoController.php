@@ -21,7 +21,7 @@ class MemoController extends Controller
     public function index()
     {
         $userId = Auth::id();
-        $memos = Memo::where('user_id', $userId)->date('desc')->get();
+        $memos = Memo::where('user_id', $userId)->latest()->get();
         return view('memo.index', compact('memos'));
     }
 
@@ -53,19 +53,19 @@ class MemoController extends Controller
         return view('memo.create', compact('memo'));
     }
 
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
+    // 投稿の更新
+    public function update(MemoRequest $request, Memo $memo)
     {
-        //
+        $this->service->memoupdate($request->validated(), $memo);
+
+        return redirect()->route('memo.index');
     }
 
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(string $id)
+    // メモを削除
+    public function destroy(Memo $memo)
     {
-        //
+        $memo->delete();
+
+        return redirect()->route('memo.index');
     }
 }
